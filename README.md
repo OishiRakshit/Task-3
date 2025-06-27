@@ -5,8 +5,6 @@
 -  This task is designed to introduce you to the basics of identifying and analyzing system vulnerabilities.
 
 ## 🛠 Tools Used
-- [OpenVAS Community Edition](https://www.greenbone.net/en/community-edition/)  
-  *or*
 - [Nessus Essentials](https://www.tenable.com/products/nessus/nessus-essentials)
 
 ## 🧭 Steps Followed
