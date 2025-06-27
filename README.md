@@ -6,7 +6,7 @@
 
 ## 🛠 Tools Used
 - [OpenVAS Community Edition](https://www.greenbone.net/en/community-edition/)  
-                                        *or*
+  *or*
 - [Nessus Essentials](https://www.tenable.com/products/nessus/nessus-essentials)
 
 ## 🧭 Steps Followed
